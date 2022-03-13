@@ -4,8 +4,9 @@ git config --global user.email "sittidech.lobyam@gmail.com"
 git config --global user.name "SittidechL"
 ```
 ## …or create a new repository on the command line
+note: root at you need
 ```
-echo "# banana2" >> README.md
+echo "# Test" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
